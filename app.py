@@ -7,7 +7,7 @@ def greet(name):
 
     name = name.title()
 
-    return f"Hello, {name}!"
+    return f"Hello, {name}! Welcome to DevOps."
 
 
 if __name__ == "__main__":
