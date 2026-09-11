@@ -1,0 +1,11 @@
+# Propriétaire par défaut
+* @ahmedjer12
+
+# Code Python
+*.py @ahmedjer12
+
+# Documentation
+*.md @ahmedjer12
+
+# Configuration GitHub
+.github/* @ahmedjer12
