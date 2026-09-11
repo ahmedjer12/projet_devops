@@ -1,8 +1,11 @@
 def greet(name):
+    """Return a formatted greeting."""
     name = name.strip()
 
     if not name:
         name = "Guest"
+
+    name = name.title()
 
     return f"Hello, {name}!"
 
