@@ -1,4 +1,9 @@
 def greet(name):
+    name = name.strip()
+
+    if not name:
+        name = "Guest"
+
     return f"Hello, {name}!"
 
 
