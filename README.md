@@ -88,3 +88,4 @@ Nous utilisons Conventional Commits :
 
 The application validates TCP/UDP port numbers.
 Valid ports range from 1 to 65535.
+Port validation is used by the networking module.
