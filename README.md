@@ -84,3 +84,6 @@ Nous utilisons Conventional Commits :
 
 \- chore: maintenance
 
+## Port validation
+
+The application validates TCP/UDP port numbers.
